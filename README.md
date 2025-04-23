@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 💼 Perfil profesional
 
 Soy un Graduado en Ingeniería Informática, cuyo objetivo es convertirme en un desarrollador Full-Stack lo más completo posible, tanto para web como para móvil.
@@ -85,4 +85,4 @@ PRODUCCIÓN MUSICAL:
     Valenciano / Catalán, Nativo
     Inglés, B2 según expediente académico
 
--->
+
