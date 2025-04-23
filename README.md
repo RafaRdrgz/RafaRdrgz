@@ -8,15 +8,13 @@ Soy un Graduado en Ingeniería Informática, cuyo objetivo es convertirme en un 
 Me gustaría participar en equipos de desarrollo de software multidisciplinares para seguir desarrollándome, obtener más experiencia como programador y adquirir nuevas habilidades.
 
 Actualmente estoy realizando mi segunda carrera universitaria ( Grado en Música ), ya que también soy un entusiasta del mundo de la música y producción musical. Estoy interesado en seguir formándome mientras trabajo, tanto como programador como alumno universitario de música.
+
 🎓 Educación
-Universidad, Ciudad
 
 Universidad Politécnica de Valéncia, Valencia (ESPAÑA) Grado en Ingeniería Informática (2020): Mención en Computación
-Universidad, Ciudad
-
 Universidad Internacional de la Rioja, La Rioja, (ESPAÑA) Grado en Música (2023 - Actualmente)
+
 💼 Experiencia laboral
-Empresa, Ciudad
 
 COLEGIO ACADEMIA JÚCAR: Docente (1/2023 - 6/2023)
 
@@ -28,14 +26,10 @@ COLEGIO ACADEMIA JÚCAR: Docente (1/2023 - 6/2023)
     Introducción a la Programación en 1º de FP Superior (DAM)
     Tecnología en 1º y 2º de Educación Secundaria Obligatoria
 
-Empresa, Ciudad
-
 Uktena Tech S.L. (10/2022 - 11/2022)
 
     Desarrollo backend con NodeJS, Express.js, PassportJS
     Nociones de servicios de email márketing
-
-Empresa, Ciudad
 
 F1-CONNECTING S.L. (2019, 2021)
 
@@ -44,14 +38,10 @@ F1-CONNECTING S.L. (2019, 2021)
     Programación scripts linux shell
     Resolución de problemas informáticos vía telefónica
 
-Empresa, Ciudad
-
 Divalterra S.A. (2019)
 
     Desarrollo web con HTML, CSS, MaterializeCSS y JavaScript
     Operaciones de bases de datos con PostgreSQL
-
-Empresa, Ciudad
 
 La Dipu te beca: Ayuntamiento de Albal (2017,2018)
 
@@ -59,6 +49,7 @@ La Dipu te beca: Ayuntamiento de Albal (2017,2018)
     Reparación de computadores
     Atención al usuario
     Tareas de ofimática
+
 
 💻 Habilidades
 
@@ -79,7 +70,7 @@ PRODUCCIÓN MUSICAL:
 
     Ableton Live 12, FL Studio
 
-🌎 Idiomas
+🌎 Idiomas:
 
     Español, Nativo
     Valenciano / Catalán, Nativo
