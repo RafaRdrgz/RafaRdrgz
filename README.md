@@ -65,10 +65,13 @@ INFORMÁTICA:
     Git / Github
     Bash
     HTML, XML
+    SQL
+    Bases de datos relacionales: MySQL, PostgreSQL
     Buenas Prácticas: 
         Código limpio, bien comentado y modular, 
         fácilmente extensible o modificable, 
         depuración de errores.
+    Despliegue y configuración de entornos de producción.
 
 PRODUCCIÓN MUSICAL:
 
