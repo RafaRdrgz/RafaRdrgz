@@ -65,6 +65,10 @@ INFORMÁTICA:
     Git / Github
     Bash
     HTML, XML
+    Buenas Prácticas: 
+        Código limpio, bien comentado y modular, 
+        fácilmente extensible o modificable, 
+        depuración de errores.
 
 PRODUCCIÓN MUSICAL:
 
