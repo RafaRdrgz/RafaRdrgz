@@ -23,10 +23,10 @@ COLEGIO ACADEMIA JÚCAR: Docente (1/2023 - 6/2023)
     Ciencias Aplicadas 1 en Formación Profesional Básica
     Ciencias Aplicadas 2 en Formación Profesional Básica
     Sistemas Informáticos en 1º de FP Superior (DAM)
-    Ciencias Aplicadas en 4º de Educación Secundária Obligatoria
     Lenguaje de Marcas en 1º de FP Superior (DAM)
     Introducción a la Programación en 1º de FP Superior (DAM)
     Tecnología en 1º y 2º de Educación Secundaria Obligatoria
+    Ciencias Aplicadas en 4º de Educación Secundária Obligatoria
 
 Uktena Tech S.L. (10/2022 - 11/2022)
 
