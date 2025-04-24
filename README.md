@@ -12,6 +12,7 @@ Actualmente estoy realizando mi segunda carrera universitaria ( Grado en Música
 🎓 Educación
 
 Universidad Politécnica de Valéncia, Valencia (ESPAÑA) Grado en Ingeniería Informática (2020): Mención en Computación
+
 Universidad Internacional de la Rioja, La Rioja, (ESPAÑA) Grado en Música (2023 - Actualmente)
 
 💼 Experiencia laboral
