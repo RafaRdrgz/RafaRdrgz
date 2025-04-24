@@ -7,7 +7,8 @@ Soy un Graduado en Ingeniería Informática, cuyo objetivo es convertirme en un 
 
 Me gustaría participar en equipos de desarrollo de software multidisciplinares para seguir desarrollándome, obtener más experiencia como programador y adquirir nuevas habilidades.
 
-Actualmente estoy realizando mi segunda carrera universitaria ( Grado en Música ), ya que también soy un entusiasta del mundo de la música y la producción musical. Estoy interesado en seguir formándome mientras trabajo, tanto como programador como alumno universitario de música.
+Actualmente estoy realizando mi segunda carrera universitaria ( Grado en Música ), ya que también soy un entusiasta del mundo de la música y la producción musical. 
+Estoy interesado en seguir formándome mientras trabajo, tanto como programador como alumno de música.
 
 🎓 Educación
 
