@@ -42,7 +42,7 @@ F1-CONNECTING S.L. (2019, 2021)
 
 Divalterra S.A. (2019)
 
-    Desarrollo web con HTML, CSS, MaterializeCSS, JavaScript y PHP
+    Desarrollo web con HTML, CSS, MaterializeCSS, JavaScript, jQuery y PHP
     Operaciones de bases de datos con PostgreSQL
 
 La Dipu te beca: Ayuntamiento de Albal (2017,2018)
