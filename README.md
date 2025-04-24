@@ -3,7 +3,7 @@
 
 💼 Perfil profesional
 
-Soy un Graduado en Ingeniería Informática, cuyo objetivo es convertirme en un desarrollador Full-Stack lo más completo posible, tanto para web como para móvil.
+Soy un Graduado en Ingeniería Informática, cuyo objetivo es convertirme en un desarrollador Full Stack lo más completo posible, tanto para web como para móvil.
 
 Me gustaría participar en equipos de desarrollo de software multidisciplinares para seguir desarrollándome, obtener más experiencia como programador y adquirir nuevas habilidades.
 
