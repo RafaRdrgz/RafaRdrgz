@@ -47,7 +47,7 @@ Divalterra S.A. (2019)
 
 La Dipu te beca: Ayuntamiento de Albal (2017,2018)
 
-    Mantenimiento de infrastructuras y redes
+    Mantenimiento de infraestructuras y redes
     Reparación de computadores
     Atención al usuario
     Tareas de ofimática
